@@ -1,0 +1,10 @@
+VCD info: dumpfile saida.vcd opened for output.
+Test 0: OK! Received=a5, Expected=a5
+Test 0 miso: OK! Received=a5, Expected=a5
+Test 1: OK! Received=5a, Expected=5a
+Test 1 miso: OK! Received=5a, Expected=5a
+Test 2: OK! Received=ff, Expected=ff
+Test 2 miso: OK! Received=ff, Expected=ff
+Test 3: OK! Received=00, Expected=00
+Test 3 miso: OK! Received=00, Expected=00
+All SPI tests finished.
